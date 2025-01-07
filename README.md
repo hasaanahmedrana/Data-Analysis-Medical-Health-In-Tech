@@ -2,6 +2,16 @@
 
 This project is part of a Data Science course, where I aim to understand and address mental health issues using data-driven insights. The dataset focuses on various mental health-related factors, enabling a detailed exploration and prediction model to assess mental health conditions.
 
+## Table of Contents
+- [Project Overview](#project-overview)
+- [Run the EDA Notebook](#run-the-eda-notebook)
+- [Run the Streamlit App](#run-the-streamlit-app)
+- [Key Features](#key-features)
+- [Contributions](#contributions)
+
+---
+
+
 ## Project Overview
 
 The project is divided into two main phases:
