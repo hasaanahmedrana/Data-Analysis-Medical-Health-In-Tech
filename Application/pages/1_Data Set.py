@@ -1,11 +1,13 @@
 import streamlit as st
 import pandas as pd
 
+
 # Load your datasets
 def load_datasets():
     # Replace with the paths to your actual datasets
-    original_df = pd.read_csv(r"C:\Users\PMLS\Desktop\SEM-5\Mental Health in Tech\survey.csv")
-    cleaned_df = pd.read_csv(r"C:\Users\PMLS\Desktop\SEM-5\Mental Health in Tech\data.csv")
+
+    original_df = pd.read_csv(r"C:\Users\HP\Data-Analysis-Medical-Health-In-Tech\survey.csv")
+    cleaned_df = pd.read_csv(r"C:\Users\HP\Data-Analysis-Medical-Health-In-Tech\data.csv")
     return original_df, cleaned_df
 
 # Display the dataset
@@ -21,6 +23,9 @@ def main():
     st.sidebar.title("Navigation")
     menu = ["Original Dataset", "Cleaned Dataset"]
     choice = st.sidebar.radio("Go to", menu)
+
+
+
 
     # Load datasets
     original_df, cleaned_df = load_datasets()
