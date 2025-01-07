@@ -43,12 +43,19 @@ To start the app:
    pip install streamlit
    ```
 2. Run the app:
-
    ```bash
    cd Application
    streamlit run Overview.py
+   ```
+---
+## Key Features:
+- Detailed Data Visualization: Understand trends and distributions through clear and interactive visualizations.
+- Preprocessing and Feature Engineering: Handle missing values, outliers, and create new features for enhanced model performance.
+- Interactive ML Application: Use the Streamlit app to view real-time predictions and insights.
 
-  ```
+---
+## Contributions:
+Contributions are welcome! If you'd like to improve the project or provide suggestions, feel free to fork the repository and submit a pull request.
 
 
 
