@@ -48,9 +48,9 @@ Interact with the machine learning model and predictions using the Streamlit app
 
 To start the app:
 
-1. Ensure you have Streamlit installed:
+1. Ensure all the required Libraries are installed:
    ```bash
-   pip install streamlit
+   pip install -r requirements.txt
    ```
 2. Run the app:
    ```bash
