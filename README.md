@@ -4,13 +4,13 @@ This project is part of a Data Science course, where I aim to understand and add
 
 ## Table of Contents
 - [Project Overview](#project-overview)
+- [Technologies Used](#techolgies-used)
 - [Run the EDA Notebook](#run-the-eda-notebook)
 - [Run the Streamlit App](#run-the-streamlit-app)
 - [Key Features](#key-features)
 - [Contributions](#contributions)
 
 ---
-
 
 ## Project Overview
 
@@ -22,8 +22,19 @@ A comprehensive analysis of the dataset has been conducted to understand its str
 ### 2. **Machine Learning Model**
 Building on the insights from the EDA phase, I developed a machine learning model to predict mental health conditions based on the dataset. The model was trained and tested using various algorithms to ensure accuracy and robustness.
 
-## How to Run the Project
+---
 
+## Technologies Used:
+- Python: Core programming language for data processing and model development.
+- Pandas: Data manipulation and cleaning.
+- Matplotlib and Seaborn: Data visualization libraries for EDA.
+- Plotly: Interactive visualizations.
+- Streamlit: Framework for building interactive web apps.
+- Scikit-learn: Machine learning model training and evaluation.
+- Category Encoders: Encoding categorical features for the model.
+---
+
+## How to Run the Project
 ### Clone the Repository
 Start by cloning this repository to your local system:
 
