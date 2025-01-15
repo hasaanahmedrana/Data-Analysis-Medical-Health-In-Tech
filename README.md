@@ -4,7 +4,7 @@ This project is part of a Data Science course, where I aim to understand and add
 
 ## Table of Contents
 - [Project Overview](#project-overview)
-- [Technologies Used](#techolgies-used)
+- [Technologies Used](#technologies-used)
 - [Run the EDA Notebook](#run-the-eda-notebook)
 - [Run the Streamlit App](#run-the-streamlit-app)
 - [Key Features](#key-features)
