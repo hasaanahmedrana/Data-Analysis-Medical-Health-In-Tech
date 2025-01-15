@@ -35,6 +35,9 @@ Building on the insights from the EDA phase, I developed a machine learning mode
 ---
 
 ## How to Run the Project
+#### Prerequisites:
+Ensure you have the following installed:
+- Python 3.7 or higher
 ### Clone the Repository
 Start by cloning this repository to your local system:
 
